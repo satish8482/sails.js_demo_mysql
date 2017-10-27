@@ -1,2 +1,3 @@
-# sails.js_demo_mysql
-Implementing sails.js with sql
+# newsailsproject
+
+a [Sails](http://sailsjs.org) application
