@@ -1,6 +1,14 @@
 {
   "data": {
-    "testapi": []
+    "testapi": [
+      {
+        "name": "satish swamy",
+        "password": "1234545",
+        "createdAt": "2017-10-30T08:50:02.891Z",
+        "updatedAt": "2017-10-30T08:51:53.872Z",
+        "id": 3
+      }
+    ]
   },
   "schema": {
     "testapi": {
@@ -25,6 +33,8 @@
     }
   },
   "counters": {
-    "testapi": {}
+    "testapi": {
+      "id": 3
+    }
   }
 }
